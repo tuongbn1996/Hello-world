@@ -27,6 +27,7 @@
             }
 ?> 
 <H1>Giải Phương trình bậc 2</h1>
+<H1>Nguyễn Ngọc Tưởng k59 Máy tính và khoa học thông tin</h1>
 <form method= "post"action="">
 	<input type = "text" style="width:20px" name="a" value = ""/>x<sup>2</sup>
 	+<input type = "text" style="width:20px" name="b" value = ""/>x
